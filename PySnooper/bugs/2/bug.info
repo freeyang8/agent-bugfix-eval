@@ -1,0 +1,3 @@
+python_version="3.8.1"
+buggy_commit_id="e21a31162f4c54be693d8ca8260e42393b39abd3"
+test_file="tests/test_pysnooper.py"

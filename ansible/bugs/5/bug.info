@@ -1,0 +1,4 @@
+python_version="3.6.9"
+pythonpath="ansible/build/lib/"
+buggy_commit_id="2af76f16be8cf2239daaec4c2f31c3dcb4e3469e"
+test_file="test/units/module_utils/common/validation/test_check_required_arguments.py"

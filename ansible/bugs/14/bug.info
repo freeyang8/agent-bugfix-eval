@@ -1,0 +1,4 @@
+python_version="3.6.9"
+pythonpath="ansible/build/lib/"
+buggy_commit_id="a1ab093ddbd32f1002cbf6d6f184c7d0041d890d"
+test_file="test/units/galaxy/test_api.py"

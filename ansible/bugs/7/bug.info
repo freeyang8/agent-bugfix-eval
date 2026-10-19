@@ -1,0 +1,4 @@
+python_version="3.6.9"
+pythonpath="ansible/build/lib/"
+buggy_commit_id="cd146b836e032df785ecd9eb711c6ef23c2228b8"
+test_file="test/units/modules/network/eos/test_eos_vlans.py"

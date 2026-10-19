@@ -1,0 +1,4 @@
+python_version="3.6.9"
+pythonpath="ansible/build/lib/"
+buggy_commit_id="9276dd2007a73172ed99ab5a56cded4298d3cd2b"
+test_file="test/units/modules/packaging/os/test_redhat_subscription.py"
